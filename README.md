@@ -125,13 +125,13 @@ pipeline {
 
 ### Screenshots
 #### Jenkins läuft (Dashboard)
-![Jenkins Dashboard](screenshots/Jenkins_Dashboard.png)
+![Jenkins Dashboard](./screenshots/Jenkins-Dashboard.png)
 
 #### Pipeline-Konfiguration (SCM)
-![Pipeline Overview](screenshots/Pipeline_Overview.png)
+![Pipeline Overview](./screenshots/Pipeline-Overview.png)
 
 #### Erfolgreicher Pipeline-Lauf (Console Output)
-![Console Output](screenshots/Console_Output.png)
+![Console Output](./screenshots/Console-Output.png)
 
 ### Aufräumen
 ```bash
